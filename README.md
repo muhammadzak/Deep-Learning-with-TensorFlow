@@ -21,7 +21,7 @@ The code will look like the following:
 ```
 
 All the examples have been implemented using Python version 2.7 on a Ubuntu Linux 64
-bit including the TensorFlow library version 0.11.
+bit including the TensorFlow library version 1.0.1.
 You will also need the following Python modules (preferably the latest version):
 Pip
 Bazel
@@ -37,11 +37,11 @@ TFLearn
 OpenAI gym
 
 ## Related Products
-* [Deep Learning with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786469786)
+* [Deep Learning with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow-video)
 
-* [Machine Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786469786)
+* [Machine Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow)
 
-* [Building Machine Learning Projects with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786469786)
+* [Building Machine Learning Projects with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
